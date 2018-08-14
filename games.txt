@@ -1,0 +1,12 @@
+Azul,40,1.84,7.772,0-Drafting,Points,Set Collection,Player Board--0
+Ticket to Ride,128,1.87,7.361,0-Hand Management,Route Building,Drafting,Secret Objectives,Hidden Information,Points,Set Collection--0
+Star Realms,88,1.97,7.488,1-Drafting,Last Man Standing,Take That,Deck Building-Hand Management-0
+Carcassonne,137,1.93,7.331,0-Route Building,Points,Worker Placement,Area Control,Take That,Tile Placement--0
+Clank!,61,2.22,7.616,2-Drafting,Points,Deck Building,Movement,Press Your Luck,Player Avatar-Hand Management,Take That-0
+HeroScape,271,2.29,7.088,2-Dice,Hidden Information,Last Man Standing,Take That,Asymetric Abilities,Movement,Modular Board-Drafting-0
+Catan,288,2.35,7.068,1-Dice,Hand Management,Route Building,Trading,Resource Gathering,Negotiation,Hidden Information,Win to end,Points-Random Gain-0
+Portal,2897,2.14,5.839,2-Random Gain,Worker Placement,Area Control,Points,Take That,Movement,Modular Board-Win to end-0
+Scythe,7,3.36,8.106,2-Resource Gathering,Negotiation,Secret Objectives,Hidden Information,Worker Placement,Area Control,Points,Take That,Asymetric Abilities,Movement,Player Board,Player Avatar-Campaign-0
+Gloomhaven,1,3.76,8.627,3-Hand Management,Hidden Information,Asymetric Abilities,Movement,Modular Board,Player Board,Simultaneous Turns,Player Avatar,Co op,Campaign-Deck Building-0
+Agricola,18,3.63,7.917,3-Hand Management,Resource Gathering,Drafting,Hidden Information,Worker Placement,Points,Asymetric Abilities,Player Board--0
+Spirit Island,37,3.87,7.781,3-Hand Management,Area Control,Asymetric Abilities,Deck Building,Movement,Modular Board,Player Board,Simultaneous Turns,Co op-Worker Placement-0

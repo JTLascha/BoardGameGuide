@@ -224,10 +224,17 @@ while RUNNING:
 			showPairs(inp[1])
 	elif inp[0] == "plan":
 		Plan()
+	elif inp[0] == "suggest":
+		suggest(learn=True)
+	elif inp[0] == "learn":
+		if len(inp) > 1:
+			learn(inp[1])
 	elif inp[0] == "help":
 		print("print - print names of all games")
 		print("compare,[GAME NAME] - compare all games to the selected game")
 		print("plan - create a plan to learn your unplayed games")
+		print("suggest - Suggest the next game to play based on which mechanics your group is familiar with.")
+		print("learn,[GAME NAME] - mark the chosen game as learned (for this session only)")
 		print("quit -  exit the program")
 		print()
 	else:
